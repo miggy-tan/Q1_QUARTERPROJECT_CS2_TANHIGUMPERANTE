@@ -3,25 +3,25 @@
 
 ##### Jace pls add to this text its still a draft, i did some parts tho, and im sleepy 🥱 goodnight jac-
 
-##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose.
+##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose. [add more description]
 
-# Features
+## Features
 ##### [not yet done]
 
-# Requirements
+## Requirements
 - Python 3
 
-# Inputs Needed
+## Inputs Needed
 * Subject Name
 * Subject Grade
 * Target Grade
 * Difficulty (1-5) with 5 being the highest
 * Days Left until Exam
 
-# Outputs
+## Outputs
 https://github.com/user-attachments/assets/c96323ec-de14-4615-99ed-acabb3be0890
 
-# Calculations
+## Calculations
 
 ```text
 def calculate_exam_score(current_grade, target_grade, exam_weight):
