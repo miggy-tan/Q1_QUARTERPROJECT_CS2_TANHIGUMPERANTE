@@ -3,10 +3,14 @@
 
 ##### Jace pls add to this text its still a draft, i did some parts tho, and im sleepy 🥱 goodnight jac-
 
-##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose. [add more description]
+##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose. StudyPulse helps you plan ahead for exams without the guesswork. You just type in your current grades and test dates, and it calculates what score you need to pass or reach your goal. It also gives you a daily study schedule based on how hard the subject is.
 
 ## Features
-##### [not yet done]
+* Required Exam Grade Calculator: Figures out what grade you need on your upcoming test based on your current grade, your goal grade, and how much the test is worth.
+* Study Time Estimator: Works out how many total and daily hours you should study by looking at how hard you rated the subject (1 to 5) and how many days you have left.
+* Simple Screen Menu: Prompts you step-by-step in the terminal to enter your information and displays your results clearly.
+* Reality Check Alerts: Gives you a heads-up if your target grade requires an impossible score (like needing over 100% on a test) or if the suggested study hours are too high for one day.
+* Multi-Subject Tracker: Lets you enter information for several classes in one go so you can see which subject needs your attention most.
 
 ## Requirements
 - Python 3
