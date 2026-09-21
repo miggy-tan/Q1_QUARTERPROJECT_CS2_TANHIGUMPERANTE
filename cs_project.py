@@ -1,5 +1,6 @@
 # CS Project
 # Full Code
+# by Miguel Tan and Nobi Higum
 
 import os
 
