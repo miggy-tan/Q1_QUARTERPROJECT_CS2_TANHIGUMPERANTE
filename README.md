@@ -2,8 +2,6 @@
 # __[STUDYPULSE: Grade and Wellness Tracker]__
 ##### By Miguel Tan, Nobi Higum, and Jace Perante
 
-##### Jace pls add to this text its still a draft, i did some parts tho, and im sleepy 🥱 goodnight jac-
-
 ##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose. StudyPulse helps you plan ahead for exams without the guesswork. You just type in your current grades and test dates, and it calculates what score you need to pass or reach your goal. It also gives you a daily study schedule based on how hard the subject is.
 
 ## Features
@@ -36,5 +34,6 @@ def calculate_exam_score(current_grade, target_grade, exam_weight):
     return round(needed_points / (exam_weight / 100.0), 2)
 ```
 ## LOGIC PLAN( FLOWCHART )
+#### by Jace Perante (ai-generated image)
 <img width="750" height="833" alt="image" src="https://github.com/user-attachments/assets/988faa62-73cf-4aa5-9057-181c33bbee8c" /> 
 
