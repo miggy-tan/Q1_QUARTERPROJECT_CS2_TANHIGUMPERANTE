@@ -1,3 +1,4 @@
+
 # __[STUDYPULSE: Grade and Wellness Tracker]__
 ##### By Miguel Tan, Nobi Higum, and Jace Perante
 
@@ -34,3 +35,6 @@ def calculate_exam_score(current_grade, target_grade, exam_weight):
     needed_points = target_grade - earned_points
     return round(needed_points / (exam_weight / 100.0), 2)
 ```
+## LOGIC PLAN( FLOWCHART )
+<img width="750" height="833" alt="image" src="https://github.com/user-attachments/assets/988faa62-73cf-4aa5-9057-181c33bbee8c" /> 
+
