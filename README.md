@@ -27,7 +27,9 @@
 - Exam Weight (%)
 
 ## Outputs
-https://github.com/user-attachments/assets/c96323ec-de14-4615-99ed-acabb3be0890
+https://github.com/user-attachments/assets/faf821f3-8dac-4861-9e8d-dbbef5051429
+
+
 
 ## Calculations
 
