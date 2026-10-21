@@ -1,27 +1,31 @@
 
-# __[STUDYPULSE: Grade and Wellness Tracker]__
+# __[STUDYPULSE: Target Grade Calculator]__
 ##### By Miguel Tan, Nobi Higum, and Jace Perante
 
-##### This program calculates the required grade to get to the target grade (inputted). It also calculates the study hours depending on which difficulty you choose. StudyPulse helps you plan ahead for exams without the guesswork. You just type in your current grades and test dates, and it calculates what score you need to pass or reach your goal. It also gives you a daily study schedule based on how hard the subject is.
+##### StudyPulse is a simple tool designed to take the stress out of exam prep. Instead of guessing what you need to pass, you just type in your current grade, your goal grade, and how much your test is worth. The program calculates the exact score you need on your exam so you can plan ahead with confidence.
+
+## Problem Statement
+##### Many students feel anxious before big exams because they do not know what score they actually need to hit their goal grade. Research shows that having clear, specific academic targets lowers study stress and helps students focus better. StudyPulse solves this by giving students quick, clear math on their required exam score so they know exactly what to aim for.
+
+## Project Objectives
+- Find Required Exam Grades: Calculate the exact score needed on an upcoming exam to reach a final target grade.
+- Catch Impossible Goals: Warn students right away if a target grade requires an impossible test score (like over 100%).
 
 ## Features
-* Required Exam Grade Calculator: Figures out what grade you need on your upcoming test based on your current grade, your goal grade, and how much the test is worth.
-* Study Time Estimator: Works out how many total and daily hours you should study by looking at how hard you rated the subject (1 to 5) and how many days you have left.
-* Simple Screen Menu: Prompts you step-by-step in the terminal to enter your information and displays your results clearly.
-* Reality Check Alerts: Gives you a heads-up if your target grade requires an impossible score (like needing over 100% on a test) or if the suggested study hours are too high for one day.
-* Multi-Subject Tracker: Lets you enter information for several classes in one go so you can see which subject needs your attention most.
+- Required Exam Grade Calculator: Figures out the grade you need on your upcoming test using your current grade, goal grade, and test weight.
+- Reality Check Alerts: Displays a warning if your target grade requires a score above 100% or below 0%.
+- Simple Terminal Menu: Guides you step-by-step through clear command-line prompts.
 
 ## Requirements
 - Python 3
 
-## Inputs Needed 
-* Subject Name
-* Subject Grade
-* Target Grade
-* Difficulty (1-5) with 5 being the highest
-* Days Left until Exam
+## Inputs Needed
+- Subject Name
+- Current Subject Grade (%)
+- Target Final Grade (%)
+- Exam Weight (%)
 
-## Outputs 
+## Outputs
 https://github.com/user-attachments/assets/c96323ec-de14-4615-99ed-acabb3be0890
 
 ## Calculations
