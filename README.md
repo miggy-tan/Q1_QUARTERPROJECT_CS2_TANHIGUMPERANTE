@@ -41,6 +41,7 @@ def calculate_exam_score(current_grade, target_grade, exam_weight):
     return round(needed_points / (exam_weight / 100.0), 2)
 ```
 ## LOGIC PLAN( FLOWCHART )
+<img width="247" height="376" alt="image" src="https://github.com/user-attachments/assets/96d431a9-c111-490a-9475-c43a26e5d948" />
 
 #### by Jace Perante
 
