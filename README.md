@@ -42,7 +42,6 @@ def calculate_exam_score(current_grade, target_grade, exam_weight):
 ```
 ## LOGIC PLAN( FLOWCHART )
 #### by Jace Perante
-<img width="750" height="833" alt="image" src="https://github.com/user-attachments/assets/988faa62-73cf-4aa5-9057-181c33bbee8c" /> 
 
 ## Contributors
 * Nobi Higum: Core logic & Workflow
