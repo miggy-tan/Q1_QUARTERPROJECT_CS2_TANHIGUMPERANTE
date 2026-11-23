@@ -7,7 +7,7 @@ okay so i just put
 
 ## -2026-09-29
 
-##### We have not updated the code yet so there will be no changes as of now in the change log
+##### We have not updated the code yet so there will be no changes of the code as of now in the change log
 
 ## -2026-10-19 to -2026-10-21
 
@@ -21,4 +21,3 @@ okay so i just put
 ##### -made the main goal to find the score needed on a test and warn users if a target grade is impossible.
 ##### -made similar to a grade calculator, adding error warnings, and a basic screen menu.
 ##### -removed difficulty ratings and days left, so users only need to type in their current grade, target grade, and test weight.
-## 
