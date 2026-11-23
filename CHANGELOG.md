@@ -11,7 +11,7 @@ okay so i just put
 
 ## -2026-10-19 to -2026-10-21
 
-##### updated changelog adding the file and content thats was recently updated
+##### updated changelog adding the file(CHANGELOG.md) and adding our current progress reports thats was recently updated inside
 
 ## -2026-10-22 to 2026-10-23
 
